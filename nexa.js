@@ -2116,4 +2116,5 @@ console.log('📌 Send +menu to see all commands');
 console.log('📱 Phone keyboard emojis: nc81-nc100');
 console.log('🎨 Text+Emoji: Combine any text with any emoji set!');
 console.log('⚡ Triple attacks: Runs 3 different NCs simultaneously!');
+
 console.log('⚠️  WARNING: Use at your own risk!\n');
